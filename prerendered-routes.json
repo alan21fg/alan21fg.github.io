@@ -1,0 +1,8 @@
+{
+  "routes": [
+    "/api-autos",
+    "/login",
+    "/menu",
+    "/usuarios"
+  ]
+}
